@@ -1,1 +1,1 @@
-/home/ildar/git/sublime-backup-fireftp/readme.md
+for linux copy py-file to ~/.config/sublime-text-3/Packages/User/
